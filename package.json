@@ -15,7 +15,9 @@
     "PNG.js",
     "PNGReader.js"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "pako": "^1.0.4"
+  },
   "devDependencies": {
     "browserify": "^12.0.1",
     "canvas": "^1.3.5"
